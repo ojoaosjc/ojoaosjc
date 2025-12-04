@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**ojoaosjc/ojoaosjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joao Victor, a Systems Information student from Brazil.
 
-Here are some ideas to get you started:
+I'm focused on building a solid foundation in Linux, Networking, Docker and AWS through practical, real-world projects.  
+Everything I learn, I turn into experiments, labs and small automations — and add here as part of my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Tools
+- **Linux (Ubuntu/Debian)** – users, permissions, services, networking  
+- **Shell Script** – automations and system tasks  
+- **Docker** – containers, images and basic deployments  
+- **Networking** – DNS, DHCP, ports, routing, troubleshooting  
+- **AWS** – EC2, S3, IAM (Free Tier labs)  
+- **Git & GitHub** – version control and documentation  
+
+## 📌 Currently Working On
+- Projects for Infra/DevOps using Linux, Docker and AWS  
+- Building a complete portfolio for internships in Support, Infra or Cloud  
+- Creating small labs and scripts to practice real-world scenarios  
+
+---
